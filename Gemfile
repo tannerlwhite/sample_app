@@ -38,7 +38,7 @@ group :production do
   gem 'rails_12factor', '0.0.2'
 end
 
-# gem 'sprockets', '2.11.0'
+gem 'sprockets'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
